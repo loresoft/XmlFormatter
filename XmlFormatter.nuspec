@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>XmlFormatter</id>
+        <version>1.0.0.0</version>
+        <title>XmlFormatter</title>
+        <authors>LoreSoft</authors>
+        <owners>LoreSoft</owners>
+        <licenseUrl>https://github.com/loresoft/XmlFormatter</licenseUrl>
+        <projectUrl>https://github.com/loresoft/XmlFormatter</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description># XmlFormatter
+
+Format Xml Documents
+
+## Features
+
+* Indent Xml
+* Attribute wrapping
+* Standard Input/Output
+
+## Usage
+
+</description>
+        <summary>XmlFormatter - Format Xml Documents.</summary>
+        <language>en-US</language>
+        <tags>xml format</tags>
+    </metadata>
+    <files>
+        <file src="Build\XmlFormatter.exe" target="tools" />
+    </files>
+</package>
